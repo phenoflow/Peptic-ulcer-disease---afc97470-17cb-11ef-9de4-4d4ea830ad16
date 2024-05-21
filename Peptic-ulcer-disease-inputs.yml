@@ -1,0 +1,87 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/acute-peptic-ulcer-disease---primary.py
+inputModule3:
+  class: File
+  path: python/gastric-peptic-ulcer-disease---primary.py
+inputModule4:
+  class: File
+  path: python/peptic-ulcer-disease-unspec---primary.py
+inputModule5:
+  class: File
+  path: python/gastrojejunal-peptic-ulcer-disease---primary.py
+inputModule6:
+  class: File
+  path: python/peptic-ulcer-disease-specified---primary.py
+inputModule7:
+  class: File
+  path: python/peptic-ulcer-disease-complication---primary.py
+inputModule8:
+  class: File
+  path: python/peptic-ulcer-disease-haemorrhage---primary.py
+inputModule9:
+  class: File
+  path: python/peptic-ulcer-disease-perforation---primary.py
+inputModule10:
+  class: File
+  path: python/peptic-ulcer-disease-obstruction---primary.py
+inputModule11:
+  class: File
+  path: python/peptic-ulcer-disease-operation---primary.py
+inputModule12:
+  class: File
+  path: python/peptic-ulcer-disease-erosion---primary.py
+inputModule13:
+  class: File
+  path: python/duodenal-peptic-ulcer-disease---primary.py
+inputModule14:
+  class: File
+  path: python/peptic-ulcer-disease-bleeding---primary.py
+inputModule15:
+  class: File
+  path: python/peptic-ulcer-disease---primary.py
+inputModule16:
+  class: File
+  path: python/peptic-ulcer-disease-suture---primary.py
+inputModule17:
+  class: File
+  path: python/peptic-ulcer-disease-vessel---primary.py
+inputModule18:
+  class: File
+  path: python/chronic-peptic-ulcer-disease---primary.py
+inputModule19:
+  class: File
+  path: python/vpersonal-peptic-ulcer-disease---primary.py
+inputModule20:
+  class: File
+  path: python/peptic-ulcer-disease-perforated---primary.py
+inputModule21:
+  class: File
+  path: python/peptic-ulcer-disease-haemostasis---primary.py
+inputModule22:
+  class: File
+  path: python/peptic-ulcer-disease-closure---primary.py
+inputModule23:
+  class: File
+  path: python/peptic-ulcer-disease-antiplatelet---primary.py
+inputModule24:
+  class: File
+  path: python/peptic-ulcer-disease-stomach---primary.py
+inputModule25:
+  class: File
+  path: python/ulcer---primary.py
+inputModule26:
+  class: File
+  path: python/peptic-ulcer-disease-procedure---primary.py
+inputModule27:
+  class: File
+  path: python/peptic-ulcer-disease-history---primary.py
+inputModule28:
+  class: File
+  path: python/peptic-ulcer-disease-duodenum---primary.py
+inputModule29:
+  class: File
+  path: python/output-cases.py
