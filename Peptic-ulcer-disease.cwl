@@ -198,8 +198,8 @@ steps:
       potentialCases:
         id: potentialCases
         source: peptic-ulcer-disease-vessel---primary/output
-  vpersonal-peptic-ulcer-disease---primary:
-    run: vpersonal-peptic-ulcer-disease---primary.cwl
+  personal-peptic-ulcer-disease---primary:
+    run: personal-peptic-ulcer-disease---primary.cwl
     out:
     - output
     in:
@@ -219,7 +219,7 @@ steps:
         source: inputModule20
       potentialCases:
         id: potentialCases
-        source: vpersonal-peptic-ulcer-disease---primary/output
+        source: personal-peptic-ulcer-disease---primary/output
   peptic-ulcer-disease-haemostasis---primary:
     run: peptic-ulcer-disease-haemostasis---primary.cwl
     out:

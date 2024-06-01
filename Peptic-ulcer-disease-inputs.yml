@@ -57,7 +57,7 @@ inputModule18:
   path: python/chronic-peptic-ulcer-disease---primary.py
 inputModule19:
   class: File
-  path: python/vpersonal-peptic-ulcer-disease---primary.py
+  path: python/personal-peptic-ulcer-disease---primary.py
 inputModule20:
   class: File
   path: python/peptic-ulcer-disease-perforated---primary.py
